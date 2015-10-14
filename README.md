@@ -1,4 +1,4 @@
-# git_repo
+# SimpleGoogleMaps
 
 Проект недопилен. 
 Пункт меню Preferences->Settings. Открывается активити для ввода параметров, которое передает их в Google Maps.
